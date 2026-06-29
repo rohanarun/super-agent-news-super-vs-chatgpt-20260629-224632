@@ -1,0 +1,29 @@
+{
+  "citations": [
+    "[rohitraj.tech](https://rohitraj.tech/en/notes/gemini-computer-use-vs-claude-openai-2026)",
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0?oc=5)",
+    "[theeditorial.news](https://theeditorial.news/ai-agents/anthropic-computer-use-vs-openai-operator-vs-google-mariner-72-task-completion-on-osworld-but-on-mqi0zmi8)",
+    "[searchenginejournal.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVJoRjFoQjUzdGpSQlNUNUZmQTBUUzBnRkFqZUl2N0N6SkxaS3kzTmR1cUZDZFJ3cEsxcjFYQXVWYmh2RU56UEhlLVpZS2JQcE5WRmg1LXRGRUJUVmxMeWdnTlRkQjNNNzVCTThETk8zRW5qMnRlUnZGRjZWUFRPeVA3RVVtcDQtTklUWTk4T2NLOE1VWG9YVjdrM1BjMW1kd1JQZndaQy1PTURSUUg1eHcwV1NlRFBJOVR3SkpkeTZYX3lMT2c?oc=5)",
+    "[bwmarketingworld.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOelJpbU0yTHN5ZFFndnZIdVJLWG5jUlNiX05iOFhsVHN1cnhRb2UzakRyRkR6RVNId1I1VVRtd0RRZUlHdVFXSmtPNVNHbTkwcFBVUGRuZG01YTVmaUFyRHlGX3RUcWhlUGQtem9EajJYTkIwUUxJWnlnY2ZZQ05SaGc4am93a1JtX2ZVNkpUQjRQUTRwd3BQemFoYkZHMTBrUHg2ZUZtMC1RbFFybUZ3Tlg5WEo1Vm54Mk9xMjdXdnliUQ?oc=5)",
+    "[ndtvprofit.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbjU5NV8wbzNQVFZGQTZFNGFZd3F0Y3Y2QllNZUFIQVd4WHIyMTlLa0dFaXhTcHpFcFk5OEJfcWFqMnpNZUR1QmZkcE1jc3M3ZWNKaE51S0VsOGE2THJXUXhhWXUtdFFnMW9jd2dXQVpINUFldjkzLXZEZ1NTVmdraUZXZi1fSXlkNk9LdTNia2F2MDVJc0t2ekNBVVdZY2gyenZmR1VEdjlLVlNhbGNMd0NpYTVhRGFnSERYVVF1Xy1iYmvSAcsBQVVfeXFMT2hCMTdSSXE4dF9LNnMtQXVfX0E2RTBadVd3dVZxeE5mME45dEp6S00wSVlEcnctUVBOWWNTS2JqbnFQY2hKNmR2RDhBVlJCMDhoQURJY2JFdmVsOHJxQWJLUlJuUDJ2U2M1LTdnZU5IV3JhTVFtcWM0ell1Q3RaeVhsa2psTXZrU2hjbE5UOFZzTzZvVEVUV2Fyc1F4eVFmM3hKWklwNS1QcWRsWF9nOGlrc0J4cGFDT3ZTcHZsWWFyR2gxcHpTXzNIblk?oc=5)"
+  ],
+  "design_plan": "rng=42;audience=AIDA_checked;hero_math=1120px_2.3lines;density=grid-auto-flow:dense_verified;labels=sweep_ok;buttons=contrast_ok",
+  "generated_at": "2026-06-29T22:46:39.134243+00:00",
+  "headline": "Super vs ChatGPT \u2014 Personal AI Agents Compared",
+  "site_brief": {
+    "audience": "people comparing Super with ChatGPT",
+    "competitor": "ChatGPT",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs ChatGPT. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "ChatGPT AI agent",
+      "ChatGPT AI assistant",
+      "ChatGPT automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-chatgpt",
+    "title": "Super vs ChatGPT"
+  },
+  "summary": "ChatGPT is a world\u2011class general assistant evolving toward agents and automation. Super is built for people who want a personal AI agent that actually operates a computer \u2014 and reuses a computer-use cache so repeated workflows get faster and cheaper. This page fairly compares where ChatGPT shines, where it stops, and why Super is the sharper choice for durable computer\u2011use work."
+}
